@@ -37,7 +37,7 @@
 - 📧 Email (sptilima@gmail.com)
 ---
 
-## en About Me
+## 🇺🇸 About Me
 
 - 🎓 Computer Science Student  
 - 🛡️ Cybersecurity (Blue Team) enthusiast  
