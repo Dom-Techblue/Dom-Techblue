@@ -33,8 +33,8 @@
 
 ## 🔗 Conecte-se comigo
 
-- [![LinkedIn](https://img.shields.io/badge/-Dominique%20no%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominique-sptilima)](https://www.linkedin.com/in/dominique-sptilima)
-
+- 💼 [![LinkedIn](https://img.shields.io/badge/-Dominique%20no%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominique-sptilima)](https://www.linkedin.com/in/dominique-sptilima)
+- 📧 Email (sptilima@gmail.com)
 ---
 
 ## en About Me
@@ -63,33 +63,7 @@
 
 ## 🔗 Let's connect
 
-- [![LinkedIn](https://img.shields.io/badge/-Dominique%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominique-sptilima)](https://www.linkedin.com/in/dominique-sptilima)
-
-
-Thanks for stopping by 💙
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🌐 Let's connect:
-- [💼 LinkedIn] (https://www.linkedin.com/in/dominique-sptilima)
+- 💼 [![LinkedIn](https://img.shields.io/badge/-Dominique%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominique-sptilima)](https://www.linkedin.com/in/dominique-sptilima)
 - 📧 Email (sptilima@gmail.com)
 
 ---
