@@ -1,32 +1,55 @@
-# 👩‍💻 Olá, me chamo Dominique Lima de Freitas
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=26&pause=1000&color=F709AA&width=435&lines=Ol%C3%A1%2C+me+chamo+Dominique+%E2%9C%A8)](https://git.io/typing-svg)
 
-
-  <!-- Card do GitHub Stats -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom-Techblue&show_icons=true&theme=dracula)
-
-
-  <div align="left" style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/>
-  </div>
+<div align="center">
+   
+| ![Dom GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom-Techblue&show_icons=true&theme=dracula&rank_icon=github) |  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dom-Techblue&theme=dracula&hide_border=true" alt="GitHub Streak Stats" width="500" /> 
+| :-: | :-: |
 
 </div>
+<p align="center">
 
----
+  <a href="https://www.wireshark.org/">
+    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  </a> &nbsp;
 
-  <a href="mailto:sptilima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=red&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/dominique-sptilima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=blue&style=for-the-badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Dom-Techblue&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/Dom-Techblue?style=for-the-badge" />
+  <a href="https://nmap.org/">
+    <img alt="Nmap" src="https://img.shields.io/badge/Nmap-CC342D?style=for-the-badge&logo=nmap&logoColor=white" />
+  </a> &nbsp;
 
-</div>
+  <a href="https://www.metasploit.com/">
+    <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-FF9900?style=for-the-badge&logo=metasploit&logoColor=white" />
+  </a> &nbsp;
+
+  <a href="https://portswigger.net/burp">
+    <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-F27C00?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  </a> &nbsp;
+
+  <a href="https://www.kali.org/">
+    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  </a> &nbsp;
+
+  <a href="https://owasp.org/">
+    <img alt="OWASP" src="https://img.shields.io/badge/OWASP-ED1C24?style=for-the-badge&logo=owasp&logoColor=white" />
+  </a> &nbsp;
+
+  <a href="https://www.splunk.com/">
+    <img alt="Splunk" src="https://img.shields.io/badge/Splunk-18569B?style=for-the-badge&logo=splunk&logoColor=white" />
+  </a> &nbsp;
+
+  <a href="https://www.linux.org/">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </a> &nbsp;
+
+  <a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  </a> &nbsp;
+
+  <a href="https://code.visualstudio.com/">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+
+</p>
+
 
 
 
@@ -59,8 +82,15 @@
 
 ## 🔗 Conecte-se comigo
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/-Dominique%20no%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominique-sptilima)](https://www.linkedin.com/in/dominique-sptilima)
-- 📧 Email (sptilima@gmail.com)
+<p align="left">
+  <a href="mailto:sptilima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/dominique-sptilima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
 ---
 
 ## 🇺🇸 About Me
@@ -89,8 +119,15 @@
 
 ## 🔗 Let's connect
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/-Dominique%20on%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominique-sptilima)](https://www.linkedin.com/in/dominique-sptilima)
-- 📧 Email (sptilima@gmail.com)
+<p align="left">
+  <a href="mailto:sptilima@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/dominique-sptilima" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
+
 
 ---
 
