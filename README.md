@@ -1,12 +1,38 @@
-# 👩‍💻 Dominique Lima de Freitas
+# 👩‍💻 Olá, me chamo Dominique Lima de Freitas
 
-🛡️ Estudante apaixonada por **Cibersegurança (Blue Team)** e por compartilhar minha jornada de aprendizado com o mundo!
 
-![GitHub followers](https://img.shields.io/github/followers/Dom-Techblue?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/Dom-Techblue?label=Stars&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=Dom-Techblue&color=blue&style=flat)
+  <!-- Card do GitHub Stats -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dom-Techblue&show_icons=true&theme=dracula)
+
+
+  <div align="left" style="display: inline-block; vertical-align: top; margin-left: 20px;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge"/>
+  </div>
+
+</div>
 
 ---
+
+  <a href="mailto:sptilima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=red&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/dominique-sptilima"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=blue&style=for-the-badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Dom-Techblue&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/Dom-Techblue?style=for-the-badge" />
+
+</div>
+
+
+
+
+
+
 
 ## 🇧🇷 Sobre mim
 - 🎓 Estudante de Ciência da Computação  
