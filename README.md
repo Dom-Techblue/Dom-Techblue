@@ -6,53 +6,12 @@
 | :-: | :-: |
 
 </div>
+
 <p align="center">
-
-  <a href="https://www.wireshark.org/">
-    <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-0078D7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://nmap.org/">
-    <img alt="Nmap" src="https://img.shields.io/badge/Nmap-CC342D?style=for-the-badge&logo=nmap&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://www.metasploit.com/">
-    <img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-FF9900?style=for-the-badge&logo=metasploit&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://portswigger.net/burp">
-    <img alt="Burp Suite" src="https://img.shields.io/badge/Burp_Suite-F27C00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://www.kali.org/">
-    <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://owasp.org/">
-    <img alt="OWASP" src="https://img.shields.io/badge/OWASP-ED1C24?style=for-the-badge&logo=owasp&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://www.splunk.com/">
-    <img alt="Splunk" src="https://img.shields.io/badge/Splunk-18569B?style=for-the-badge&logo=splunk&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://www.linux.org/">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a> &nbsp;
-
-  <a href="https://www.gnu.org/software/bash/">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  </a> &nbsp;
-
-  <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,cpp,css,git,html,js,kali,linux,mysql,powershell,py,ubuntu,vscode," />
   </a>
-
 </p>
-
-
-
-
 
 
 
